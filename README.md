@@ -1,12 +1,9 @@
-# Systèmes Répartis1 - TP2 -  «Serveur FTP»
+# Serveur FTP - Systèmes Répartis
 
-### Binome :
+## Binome :
 
 - Hatim  Mrabet el khomssi 
-
 - Nouria Aitkheddache
- 
-<br>
 
 ## Introduction
 
@@ -22,6 +19,7 @@
 * Un fichier **serveur** qui contient les dossier des client.
 * Un fichier **passwd.txt** qui contient les noms clients et leur mots de passe
 * Un fichier **README.md** (celui-ci) qui décrit les caractéristiques du projet.
+
 ## Installation et utilisation du projet Maven
 
 ### Lancer le server avec Maven 
