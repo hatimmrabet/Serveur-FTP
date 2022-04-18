@@ -1,0 +1,3 @@
+hatim:12345
+admin:admin
+nouria:souad
